@@ -26,7 +26,7 @@ Gebung is a personal finance management application designed to empower users in
 
 1. Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
 2. Machine Learning : [Gebung-ML](https://github.com/sesaism/Gebung)
-3. Cloud Computing : [Gebung-CC](https://github.com/utyy03/Gebung-Api)
+3. Cloud Computing : [Gebung-CC](https://github.com/utyy03/Gebung-Api) (Late)
 <br/>
 <br/>
 <br/>
