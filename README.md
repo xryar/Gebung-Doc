@@ -20,9 +20,15 @@ Gebung is a personal finance management application designed to empower users in
 | A211D4KY4021  | Reza Nugraha   | Universitas Indraprasta PGRI  |  Mobile Development  |
 
 ## Project Architecture
-<img src=""  width="250" height="500">
+<img src="https://github.com/xryar/Gebung-Doc/blob/main/ProjectArchitect.png">
 
 # Repository
 
 1. Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
 2. Machine Learning : [Gebung-ML](https://github.com/sesaism/Gebung)
+<br/>
+<br/>
+<br/>
+
+
+### **© Bangkit Academy 2024 - Product Capstone**
